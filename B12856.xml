@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for preuention of abuses touching gunpowder and saltpeeter.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12856</idno><idno type="EEBO-CITATION">99891159</idno>
+  <idno type="VID">185823</idno>
+  <idno type="EEBO-PROQUEST">2240920672</idno>
+  
+            <idno type="STC">STC 8699</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.12[96]</idno>
+            <idno type="STC">ESTC S100928</idno>
+            <idno type="PROQUEST">ocm99891159</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99891159e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12856)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185823)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C2:3[96])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for preuention of abuses touching gunpowder and saltpeeter.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>by Bonham Norton and Iohn Bill, printers to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>anno M.DC.XXII. [1622, i.e. 1623]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Forbidding unlicensed manufacture and sale; specifying 3 grades of powder--STC.</note>
+                  <note>Dated at end: Westminster, the sixteenth day of Ianuary, in the twentieth yeere of our reigne ..</note>
+                  <note>Arms 14; Steele notation: quan-  by  2) the  offen-.</note>
+                  <note>The date is given according to Lady Day dating.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Gunpowder industry --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Saltpeter industry --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:185823:1"/>
+            <head>❧ By the King.
+<figure>
+                  <figDesc>Royal blazon or coat of arms.</figDesc>
+               </figure>
+            </head>
+            <head type="sub">¶ A Proclamation for preuention of abuses touching Gunpowder and Saltpeeter.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas His Maiestie hath beene informed, that many and great quan<g ref="char:EOLhyphen"/>tities</hi> of vnseruiceable Gunpowder haue beene heeretofore, and are dayly still vented within this His Kingdome, to the apparant and manifest dan<g ref="char:EOLhyphen"/>ger, losse and preiudice of his louing Subiects, the merchants of the same, and all others that be occasioned to make vse of it, insomuch that not onely many of their Ships with their goods and merchandises, but also their persons (by meanes of this defectiue powder being very weake and bad) haue beene lost and surprised: And his Maiestie hath also beene certified, aswell by some of the Lords and others of his Priuie Counsell (to whom he was pleased to commit the care of this so important a businesse) as also by the Commissioners of his Nauie (to whom the same was referred) that this inconuenience is occasioned, partly by reason of importation of forreigne Gunpowder being in<g ref="char:EOLhyphen"/>sufficient, partly by defectiue making of powder within this Realme couertly and secretly, and with<g ref="char:EOLhyphen"/>out warrant of his Maiesties Commission, and especially for that the sayd defectiue powder, aswell imported as made within the Realme, is put to sale before it be duely prooued as it ought, and as all the gunpowder made for his Maiestie is tried and prooued by a proofe-master assigned and sworne for that purpose.</p>
+            <p>His most Excellent Maiesty (whose care doth euer watch ouer the weale of his louing Subiects) taking these things into his Royall consideration, is resolued to meet with, and preuent these so im<g ref="char:EOLhyphen"/>minent and perillous enormities for the time to come: And for redresse thereof, his Maiestie doeth heereby signifie his pleasure to all his louing Subiects and others; and his Highnesse doeth by this his Proclamation strictly charge and command, That no person or persons whatsoeuer, doe at any time heereafter make, or cause to be made for seruice against any enemy, or for sale, any gunpowder, within this Realme of <hi>England,</hi> or the Dominion of <hi>Wales,</hi> of any Saltpeeter made, or to bee made within the sayd Realme or Dominion, but of such Saltpeeter onely as is, or shalbe made by warrant of his Maiesties Commission granted, or to be granted in that behalf. And that no Saltpeeterman, or maker of Saltpeeter do at any time heereafter, transport, or cause to bee transported into the parts beyond the Seas, or sell, vtter, or put to sale, or cause to be sold, vttered, or put to sale within the said Realme or Dominion, any Saltpeeter made within the sayd Realme or Dominion, but onely to his Maiesties storehouse, to his Maiesties powder-maker there. And that no person or persons whatsoe<g ref="char:EOLhyphen"/>uer, doe heereafter presume to buy any Saltpeeter, made, or to bee made by vertue of his Maiesties Commission, but his Maiesties Powder-maker only, to whom it shall not be lawfull to receiue for any powder by him to be sold to his Maiesties Subiects aboue ten pence the pound: And that no
+<pb facs="tcp:185823:2"/> gunpowder whatsoeuer, be heereafter at any time vttered, sold, or vented within this Realme or the dominion of <hi>Wales,</hi> by any person or persons whatsoeuer, before the same be tried, proued, and allow<g ref="char:EOLhyphen"/>ed of, by the sayd sworne proof-master, and by him marked, as heerein after is expressed, whereby all his Maiesties louing Subiects may take notice of the sorts of the sayd gunpowder, and the goodnesse thereof, and the vses to which it may the most aptly be applied.</p>
+            <p>And because much inconuenience may arise by fraud and deceit in counterfeiting the proof-masters marke, or by mingling the powder by him marked, with other decayed or insufficient stuffe, and o<g ref="char:EOLhyphen"/>therwise; His Maiestie doeth further heereby charge and command, That no person or persons whatsoeuer, doe attempt or presume to counterfeit any marke which shall heereafter bee vsed by the sayd sworne proof-master, to the purpose aforesayd, or doe worke, or put in practise any fraud, deceit, or sleight, by mixing or mingling any gunpowder, or otherwise, whereby his Maiesties intent and meaning before expressed, may bee altered, diuerted, or abused; Letting all his Subiects and others know, that whosoeuer shall commit any offence against this his Maiesties Proclamation, or any part thereof, or in any point infringe any prohibition or declaration of his Maiesties pleasure heerein ex<g ref="char:EOLhyphen"/>pressed, shall not only incurre his Maiesties heauy indignation and displeasure, and be subiect to such paines, penalties, imprisonment, and punishment, as by the Lawes and Statutes of this Realme can or may be inflicted vpon them, as breakers and contemners of his Maiesties Royall command, but also vndergoe the seuere censure of his high Court of Starre chamber for such their offences ac<g ref="char:EOLhyphen"/>cording to their demerites. And his Maiestie doeth heereby require and command, that the sayde sworne proof-master, which shall haue the trying and proouing of Gunpowder, bee diligent, atten<g ref="char:EOLhyphen"/>dant, and carefull to doe his duty therein faithfully and truely, as to him belongeth, and not to mark any vessell of powder to be sold or vented, as aforesayd, but such as shalbe good and sufficient for the necessary vse of his Maiesties Subiects, and answerable to the marks: And that he do not take or re<g ref="char:EOLhyphen"/>ceiue aboue sixe pence in currant English mony, for any barrell of powder of one hundred weight, &amp; so proportionably, which shall by him be tried, prooued and marked, as aforesayd, as he will answer the contrary at his perill.</p>
+            <p>And his Maiesties pleasure is, That he, and all other his Highnesse Officers in generall, bee vi<g ref="char:EOLhyphen"/>gilant and carefull to see this his Proclamation fully executed, and to discouer all offences, fraudes and deceits, which shall bee committed, put in practise, or attempted contrary to the true meaning of the same, and to giue information from time to time to his Maiesties Attourney generall, as<g ref="char:EOLhyphen"/>well of the sayd abuses and offences, as of the offenders themselues. And also commanding and authorising his sayd Atturney Generall for the time being, vpon such information giuen vnto him, to prosecute and proceede against the sayd offenders in the Court of Star-chamber: It being his Maiesties expresse pleasure, that seuere punishment shall bee executed vpon all the sayd offen<g ref="char:EOLhyphen"/>ders whatsoeuer.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at our Palace of Westminster,</hi>
+                  <date>
+                     <hi>the sixteenth day of Ianuary, in the twentieth yeere of Our Reigne of Great Britaine, France and Ireland.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="instruction">
+            <head>❧ <hi>The markes of the Proofe-master, whereby the goodnesse of the Powder may bee vnderstood.</hi>
+            </head>
+            <p>
+               <hi>If the Barrell bee marked with three Crownes on the staue heades, it is of the best and principall Re<g ref="char:EOLhyphen"/>ceipt of fine Powder which is made.</hi>
+            </p>
+            <p>
+               <hi>If with two Crownes, it is new, strong, and good Powder for great Ordnance, and may serue for Musket also.</hi>
+            </p>
+            <p>
+               <hi>But if you finde the Caske marked with <hi>O.W.</hi> and one Crowne, then it is old powder, new wrought, yet strong, good, and fit for great Ordnance, for one yeeres seruice at the least.</hi>
+            </p>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton and Iohn Bill, Printers to the Kings most Excellent Maiestie. M.DC.XXII</p>
+         </div>
+      </back>
+   </text>
+</TEI>
